@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Urxplayz",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "fluxysmp-g3ki.aternos.me",
+    "port": 63639,
     "version": "",
     "try-creative": false
   },
